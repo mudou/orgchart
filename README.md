@@ -1,2 +1,0 @@
-# orgchart
-Created with CodeSandbox
